@@ -1,37 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 24 11:24:43 2019
-
-@author: zineb.TRN
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 24 10:56:39 2019
-
-@author: zineb.TRN
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 18 16:28:49 2019
-
-@author: zineb.TRN
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 18 16:17:26 2019
-
-@author: zineb.TRN
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 18 14:20:05 2019
-
-@author: zineb.TRN
-"""
 
 # -*- coding: utf-8 -*-
 """
@@ -1251,7 +1217,7 @@ def SendEmail():
         
         mail.HTMLBody= email_p1 + email_p2 + email_p3 + email_p4
         
-        attachment = 'C:\\Users\\zineb.TRN\\Desktop\\News_NiranjanMallya\\NewsFor'+str(p)+'-'+ DT.date.today().strftime("%d-%m-%Y") +'.xlsx'
+        attachment = 'C:\\Users\\zineb.TRN\\Desktop\\News_ZinebMezzour\\NewsFor'+str(p)+'-'+ DT.date.today().strftime("%d-%m-%Y") +'.xlsx'
         mail.Attachments.Add(attachment)
         mail.Send()
 
