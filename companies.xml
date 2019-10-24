@@ -1,0 +1,105 @@
+<companies_list>
+<company>
+    <c_id>c1</c_id>
+    <c_name>snowflake</c_name>
+    <youtube>snowflakecomputing</youtube>
+    <twitter_name>@SnowflakeDB</twitter_name>
+    <hashtag>#snowflakeDB</hashtag>
+	<keyword>snowflake</keyword>
+	<keyword>startup</keyword>
+</company>
+<company>
+    <c_id>c2</c_id>
+    <c_name>denodo</c_name>
+    <youtube>denodotech</youtube>
+    <twitter_name>@denodo</twitter_name>
+    <hashtag>#denodo</hashtag>
+	<keyword>denodo</keyword>
+	<keyword>virtualization</keyword>
+</company>
+<company>
+    <c_id>c3</c_id>
+    <c_name>onetrust</c_name>
+    <youtube>UCNqZhJZrYv50EvY6PbPBs1w</youtube>
+    <twitter_name>@onetrust</twitter_name>
+    <hashtag>#onetrust</hashtag>
+	<keyword>onetrust</keyword>
+</company>
+<company>
+    <c_id>c4</c_id>
+    <c_name>collibra</c_name>
+    <youtube>UCTKqkiDbRnn1MO5YXuZd7qA</youtube>
+    <twitter_name>@collibra</twitter_name>
+    <hashtag>#denodo</hashtag>
+	<keyword>collibra</keyword>
+</company>
+<company>
+    <c_id>c5</c_id>
+    <c_name>dataiku</c_name>
+    <youtube>UCSMqVwPTmerMiCaL_zKRjBw</youtube>
+    <twitter_name>@dataiku</twitter_name>
+    <hashtag>#dataiku</hashtag>
+	<keyword>dataiku</keyword>
+	<keyword>startup</keyword>
+</company>
+<company>
+    <c_id>c6</c_id>
+    <c_name>databrick</c_name>
+    <youtube>UC3q8O3Bh2Le8Rj1-Q-_UUbA</youtube>
+    <twitter_name>@databrick</twitter_name>
+    <hashtag>#databrick</hashtag>
+	<keyword>databrick</keyword>
+</company>
+<company>
+    <c_id>c7</c_id>
+    <c_name>memsql</c_name>
+    <youtube>memsql</youtube>
+    <twitter_name>@memsql</twitter_name>
+    <hashtag>#memsql</hashtag>
+	<keyword>memsql</keyword>
+</company>
+<company>
+    <c_id>c8</c_id>
+    <c_name>teradata</c_name>
+    <youtube>teradata</youtube>
+    <twitter_name>@teradata</twitter_name>
+    <hashtag>#teradata</hashtag>
+	<keyword>teradata</keyword>
+</company>
+<company>
+    <c_id>c16</c_id>
+    <c_name>datometry</c_name>
+    <youtube>UC1lukkvm3tM213RKBIZDG0w</youtube>
+    <twitter_name>@datometry</twitter_name>
+    <hashtag>#datometry</hashtag>
+	<keyword>datometry</keyword>
+</company>
+<company>
+    <c_id>c17</c_id>
+    <c_name>datametica</c_name>
+    <youtube>UCTBR2-f1mDSSpwD0BteETPQ</youtube>
+    <twitter_name>@DataMetica</twitter_name>
+    <hashtag>#datametica</hashtag>
+	<keyword>datametica</keyword>
+</company>
+<company>
+    <c_id>c18</c_id>
+    <c_name>manta</c_name>
+    <youtube>UCf2V6vLPiCwbQHjEZR2DDfw</youtube>
+    <twitter_name>@get_manta</twitter_name>
+    <hashtag>#getmanta</hashtag>
+	<keyword>manta</keyword>
+	<keyword>data</keyword>
+	<keyword>technology</keyword>
+</company>
+<company>
+    <c_id>c30</c_id>
+    <c_name>DCubeAnalytics</c_name>
+    <youtube>UCakPuSKTwHxBlgePC2KlXTQ</youtube>
+    <twitter_name>@DcubeAnalytic</twitter_name>
+    <hashtag>#dcubeanalytic</hashtag>
+    <hashtag>#DCube</hashtag>
+	<keyword>dcube</keyword>
+	<keyword>analytic</keyword>
+</company>
+</companies_list>

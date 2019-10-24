@@ -1,0 +1,25 @@
+
+<people_list version='2'>
+
+<person p_id='1'>
+    <p_name>Murali Vasudevan</p_name>
+	<email>murali_vasudevan@infosys.com</email>
+	<group>
+        <g_name>E5</g_name>
+    	<comp_id>snowflake</comp_id>
+    	<comp_id>collibra</comp_id>
+    	<comp_id>denodo</comp_id>
+    	<comp_id>onetrust</comp_id> 
+	    <comp_id>dataiku</comp_id>
+    </group>
+    <single>
+    	<comp_id>databrick</comp_id>
+    	<comp_id>teradata</comp_id>
+	    <comp_id>memsql</comp_id>
+	    <comp_id>manta</comp_id>
+	    <comp_id>datametica</comp_id>
+	    <comp_id>datometry</comp_id>
+	    <comp_id>DCubeAnalytics</comp_id>
+	</single>
+</person>
+</people_list>
